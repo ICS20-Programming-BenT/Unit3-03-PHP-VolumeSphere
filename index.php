@@ -34,7 +34,7 @@
   		<!-- Web page heading and body text -->
       <?php 
   			echo "<h1>Calculating the Volume of a Sphere with User Input</h1>";
-  			echo "<p>Hello! This web page will allow you to inupt the radius of your choice to calculate the volume of a sphere. See the image below for the dimensions that need to be entered and the formula that will be used.</p>";
+  			echo "<p>Hello! This web page will allow you to input the radius of your choice to calculate the volume of a sphere. See the image below for the dimensions that need to be entered and the formula that will be used.</p>";
   		?>
   
       <!-- Image -->
